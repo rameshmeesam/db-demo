@@ -1,14 +1,12 @@
-[
-  {
-    "id": 1,
-    "name": "Leanne Graham",
-    "password": "Bret",
-    "email": "Sincere@april.biz"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "password": "Antonette",
-    "email": "Shanna@melissa.tv"
+{
+  "users": [
+    {
+      "id": 1,
+      "password": "hello",
+      "email": "Ramesh"
+    }
+  ],
+  "products": {
+    "name": "lg"
   }
-]
+}
