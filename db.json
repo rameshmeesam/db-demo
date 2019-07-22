@@ -2,9 +2,14 @@
   "users": [
     {
       "id": 1,
-      "password": "hello",
-      "email": "Ramesh"
+      "email": "virtusa@gmail.com",
+      "password": "Ramesh"
     }
+    {
+      "id": 2,
+      "email": "ram@gmail.com",
+      "password": "demo123"
+    }    
   ],
   "products": {
     "name": "lg"
